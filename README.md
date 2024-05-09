@@ -1,5 +1,5 @@
 # Steering-Floquet
-This repository contains Jupyter notebooks for reproducing the results presented in our preprint at https://doi.org/10.48550/arXiv.2401.03889. In our study, we consider a one-dimensional spin-1/2 lattice with periodically modulated bonds using parametric resonances 
+This repository contains Jupyter notebooks for reproducing the results presented in our preprint at https://doi.org/10.48550/arXiv.2401.03889. Our work considers a one-dimensional spin-1/2 lattice with periodically modulated bonds using parametric resonances. Quantum dynamics is studied by using exact diagonalization (ED) up to L=10 spins.  
 
 Summary of results:
 
