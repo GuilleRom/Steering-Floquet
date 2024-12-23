@@ -14,6 +14,10 @@ The library is entirely developed in Python 3 using Numpy and Scipy, and a stand
 
 Authors:
 
-Guillermo Romero, Universidad de Santiago de Chile (USACH)
-
 Rubén Peña, Basque Center for Applied Mathematics (BCAM)
+
+Felipe Torres, Universidad de Chile
+
+Guillermo Romero, Universidad de Santiago de Chile 
+
+
