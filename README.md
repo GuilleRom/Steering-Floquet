@@ -11,3 +11,8 @@ Summary of results:
 # Requirements
 
 The library is entirely developed in Python 3 using Numpy and Scipy, and a standard Jupyter environment. We recommend using Anaconda or Miniconda, although any other distribution of Python should suffice. Also, we recommend using the tqdm package for progress bar visualization. 
+
+Authors:
+
+Guillermo Romero, Universidad de Santiago de Chile (USACH)
+Rubén Peña, Basque Center for Applied Mathematics (BCAM)
