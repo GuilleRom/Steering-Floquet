@@ -7,3 +7,7 @@ Summary of results:
 2. The stroboscopic dynamics generated from distributed spin exchange modulations lead to spin pair fluctuations reaching quasi-maximally correlated states and a subharmonic response in local observables, breaking the discrete-time translational symmetry.
 3. We present a protocol to control the interacting many-body dynamics, producing spatial and temporal localization of correlated spin pairs via dynamically breaking correlated spin pairs from the edges towards the center of the lattice.
 4. Our result reveals how spin fluctuations distribute in a heterogeneous lattice depending on parametric resonances. 
+
+# Requirements
+
+The library is entirely developed in Python 3 using Numpy and Scipy, and a standard Jupyter environment. We recommend using Anaconda3 or Miniconda3, although any other distribution of Python should suffice.
