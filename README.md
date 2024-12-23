@@ -3,6 +3,7 @@ This repository contains Jupyter notebooks for reproducing the results in our ar
 
 Summary of results:
 
-1. We report on the controlled creation and destruction of antiferromagnetic dimers using two-tone Floquet engineering.
-2. The stroboscopic dynamics generated from distributed bond modulations lead to pair correlation between spins. Consequently, subharmonic response in local observables breaks discrete time translational symmetry and leads to the emergence of Floquet dynamical dimerization.
-3. We present a protocol allowing the control of local spin-correlated pairs driven by one-period evolution operators, providing significant insight into new nonequilibrium states of matter. 
+1. We report on the control of spin pair fluctuations using two-tone Floquet engineering.
+2. The stroboscopic dynamics generated from distributed spin exchange modulations lead to spin pair fluctuations reaching quasi-maximally correlated states and a subharmonic response in local observables, breaking the discrete-time translational symmetry.
+3. We present a protocol to control the interacting many-body dynamics, producing spatial and temporal localization of correlated spin pairs via dynamically breaking correlated spin pairs from the edges towards the center of the lattice.
+4. Our result reveals how spin fluctuations distribute in a heterogeneous lattice depending on parametric resonances. 
