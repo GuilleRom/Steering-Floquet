@@ -1,5 +1,5 @@
 # Steering spin fluctuations in lattice systems via two-tone Floquet engineering
-This repository contains Jupyter notebooks for reproducing the results in our article "Steering spin fluctuations in lattice systems via two-tone Floquet engineering" published in Physica Scripta https://iopscience.iop.org/article/10.1088/1402-4896/ad9d85. Our work considers a one-dimensional spin-1/2 lattice with periodically modulated bonds using parametric resonances. Quantum dynamics is studied using exact diagonalization (ED) up to L=10 spins with the Quspin package https://quspin.github.io/QuSpin/. We also provide a Python script for computing the stroboscopic dynamics.  
+This repository contains Jupyter notebooks and Python scripts for reproducing the results in our article "Steering spin fluctuations in lattice systems via two-tone Floquet engineering" published in Physica Scripta https://iopscience.iop.org/article/10.1088/1402-4896/ad9d85. Our work considers a one-dimensional spin-1/2 lattice with periodically modulated bonds using parametric resonances. Quantum dynamics is studied using exact diagonalization (ED) up to L=10 spins with the Quspin package https://quspin.github.io/QuSpin/. 
 
 Summary of results:
 
